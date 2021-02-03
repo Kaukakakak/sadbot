@@ -44,7 +44,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'END:VCARD' 
 prefix = '!'
 blocked = []   
-limitawal = 20
+limitawal = 200
 memberlimit = 2
 cr = '*𝐋𝐀𝐍𝐍 𝐁𝐎𝐓𝐙 𝐕𝐄𝐑𝐈𝐅𝐈𝐄𝐃*'
 
